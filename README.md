@@ -43,12 +43,14 @@ Source: Supermart Grocery Sales - Retail Analytics Dataset
 - Visualized Actual vs Predicted Sales for the test set.
 
 4. Results
+   
 | Metric   | Train  | Test   | Cross-Validation |
 | -------- | ------ | ------ | ---------------- |
 | R²       | 0.6232 | 0.3392 | -0.0515          |
 | RMSE     | 354.99 | 466.86 | 592.21           |
 | MAE      | 286.13 | 383.31 | 507.67           |
 | MAPE (%) | 24.14  | 32.04  | 44.88            |
+
 
 ## How to Run
 1. Clone this repository:
